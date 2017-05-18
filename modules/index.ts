@@ -3,9 +3,9 @@ export {
     read,
     utils,
     write,
-    IProperties,
-    IParsingOptions,
-    IWorkBook,
-    IWorkSheet,
-    IWorkSheetCell,
-    IUtils } from "xlsx";
+    Properties,
+    ParsingOptions,
+    WorkBook,
+    WorkSheet,
+    CellObject,
+    Utils } from "xlsx";
